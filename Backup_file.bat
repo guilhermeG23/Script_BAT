@@ -1,7 +1,6 @@
 @Rem Backup File
-@Rem Teste Asuna 0.1.0
 @Rem Backup file simples
-
+@Rem Versao Resumida
 @Rem Windows 7 Pra cima, Pois tem a mesma estrutura de pastas
 
 @cls
