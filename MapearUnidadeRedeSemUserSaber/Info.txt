@@ -1,0 +1,5 @@
+Para Ocultar a janela do CMD durante o Mape de rede, voce, cria o arquivo .bat, coloca onde voce quiser, copie o caminho e se quiser pode ate ocultar o arquivo.
+Depois disso Crie o arquivo VBS e cole o caminho que voce copiou nele, desta forma toda a vez que ele for executado nao aparece a tela do CMD durante o processo.
+
+#Usado para evitar que usuario mais basico consiga ver a senha e as infromacoes, dificultando.
+#Usado para resolver uns problemas chatos sobre o windows xp nao salvar o mapeamento de rede.
