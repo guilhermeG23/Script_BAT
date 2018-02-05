@@ -1,6 +1,5 @@
 @Rem Teste Asuna 0.0.1
 @Rem Funciona!
-
 @title Correcao Windows
 @Echo off
 @color a

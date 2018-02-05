@@ -1,5 +1,4 @@
-@Rem Reiniciando o spooler de impressao 
-
+@Rem Reiniciando o spooler de impressao e limpado os arquivos dele
 @Echo off
 @title Reboot Spooler
 @cls
