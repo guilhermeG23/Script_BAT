@@ -1,3 +1,0 @@
-net use lpt1 \\<IP ou name Machine>\<Impressora> /Persistent:yes
-
-Adicione a impressora na mesma porta que voce ta setando
