@@ -1,7 +1,7 @@
 @Rem Backup File
 @Rem Backup file simples
 @Rem Versao Resumida
-@Rem Windows 7 Pra cima, Pois tem a mesma estrutura de pastas
+@Rem Windows 7 Pra cima, Pois tem a mesma estrutura de diretorios
 
 @cls
 @echo off

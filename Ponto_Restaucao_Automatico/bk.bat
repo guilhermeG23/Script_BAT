@@ -1,0 +1,1 @@
+PowerShell -NoProfile -ExecutionPolicy Bypass -Command "& {Start-Process PowerShell -ArgumentList '-NoProfile -ExecutionPolicy Bypass -Command "Checkpoint-Computer -Description "MeuPontoRestauracao" -RestorePointType "MODIFY_SETTINGS"; " ' " -Verb RunAs}"
