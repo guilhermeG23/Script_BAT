@@ -1,2 +1,3 @@
 # Script_BAT
-Bat's só pra brincar
+
+Ajustando alguns Bat`s uteis para algumas situações, além de ser uma boa cola quando precisar.
