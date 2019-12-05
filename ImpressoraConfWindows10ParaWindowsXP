@@ -1,7 +1,0 @@
-#Adicione a impressora na mesma porta que voce ta setando
-
-#Ex:
-net use <porta> \\<IP ou name Machine>\<Impressora> /Persistent:yes
-
-#Ex -> Funcionando
-net use lpt1 \\teste\impressora_epson /Persistent:yes
